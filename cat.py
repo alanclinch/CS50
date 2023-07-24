@@ -1,3 +1,4 @@
-print("meow")
-print("meow")
-print("meow")
+i = 1
+while i <= 3:
+    print("meow")
+    i = i + 1
